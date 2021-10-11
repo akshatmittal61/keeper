@@ -5,8 +5,8 @@ function Header() {
     return (
         <header>
             <h1 className="title">
-            <AllInclusiveIcon />
-            Google Keeper
+                <AllInclusiveIcon />
+                Google Keeper
             </h1>
             <Theme />
         </header>
